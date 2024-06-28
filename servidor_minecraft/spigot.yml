@@ -10,8 +10,19 @@
 # IRC: #spigot @ irc.spi.gt ( http://www.spigotmc.org/pages/irc/ )
 # Forums: http://www.spigotmc.org/
 
+commands:
+  log: true
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+  tab-complete: 0
+  send-namespaced: true
 settings:
-  bungeecord: false
   sample-count: 12
   player-shuffle: 0
   user-cache-size: 1000
@@ -30,20 +41,9 @@ settings:
       max: 2048.0
   log-villager-deaths: true
   log-named-deaths: true
+  bungeecord: false
   debug: false
   save-user-cache-on-stop-only: false
-commands:
-  tab-complete: 0
-  send-namespaced: true
-  spam-exclusions:
-  - /skill
-  silent-commandblock-console: false
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-  log: true
 advancements:
   disable-saving: false
   disabled:
