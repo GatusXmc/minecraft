@@ -5,9 +5,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-06-28 02:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-06-28 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-06-28 02:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
     },
     "done": true
   },
@@ -41,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2024-06-28 01:55:24 +0000"
@@ -59,15 +95,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-06-28 01:56:06 +0000"
     },
     "done": true
   },
+  "croparia:recipes/crops/seed_crop_rawmutton": {
+    "criteria": {
+      "has_mutton": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-06-28 01:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-06-28 02:43:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
     },
     "done": true
   },
@@ -101,9 +167,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/crops/seed_crop_zombie": {
+    "criteria": {
+      "has_rotten_flesh": "2024-06-28 02:42:42 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/oak_branch_from_oak_log": {
     "criteria": {
       "has_log": "2024-06-28 02:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-06-28 02:47:26 +0000"
     },
     "done": true
   },
@@ -143,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:got_wood": {
     "criteria": {
       "small_oak_log": "2024-06-28 02:31:48 +0000"
@@ -161,9 +251,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/punji": {
+    "criteria": {
+      "has_item": "2024-06-28 02:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-06-28 02:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-06-28 02:39:45 +0000"
     },
     "done": true
   },
@@ -182,6 +290,12 @@
   "croparia:recipes/croparia_crop/seed_crop_oak": {
     "criteria": {
       "has_oak_sapling": "2024-06-28 02:32:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
     },
     "done": true
   },
@@ -239,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-06-28 02:20:46 +0000"
@@ -256,6 +376,14 @@
       "has_planks": "2024-06-28 02:31:52 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-06-28 02:46:17 +0000",
+      "chicken": "2024-06-28 02:43:59 +0000",
+      "rotten_flesh": "2024-06-28 02:42:45 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:recipes/ru_main/baobab_boat": {
     "criteria": {
@@ -283,7 +411,9 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "deciduous_forest": "2024-06-28 02:31:20 +0000"
+      "rocky_meadow": "2024-06-28 02:48:40 +0000",
+      "deciduous_forest": "2024-06-28 02:31:20 +0000",
+      "bamboo_forest": "2024-06-28 02:45:27 +0000"
     },
     "done": false
   },
@@ -317,9 +447,21 @@
     },
     "done": true
   },
+  "croparia:recipes/misc/seed_crop_rawchicken": {
+    "criteria": {
+      "has_chicken": "2024-06-28 02:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-06-28 02:34:18 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_rawmutton": {
+    "criteria": {
+      "has_mutton": "2024-06-28 02:47:28 +0000"
     },
     "done": true
   },
@@ -332,6 +474,12 @@
   "regions_unexplored:recipes/ru_main/redwood_boat": {
     "criteria": {
       "in_water": "2024-06-28 02:18:37 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_coal": {
+    "criteria": {
+      "has_coal": "2024-06-28 02:39:45 +0000"
     },
     "done": true
   },
@@ -361,9 +509,17 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "deciduous_forest": "2024-06-28 02:31:20 +0000"
+      "rocky_meadow": "2024-06-28 02:48:40 +0000",
+      "deciduous_forest": "2024-06-28 02:31:20 +0000",
+      "bamboo_forest": "2024-06-28 02:45:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
@@ -383,9 +539,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-06-28 02:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-06-28 02:45:31 +0000"
     },
     "done": true
   },
@@ -443,6 +611,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-06-28 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_rawporc": {
+    "criteria": {
+      "has_porkchop": "2024-06-28 02:45:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-06-28 01:56:06 +0000"
@@ -452,6 +632,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2024-06-28 02:25:17 +0000"
+    },
+    "done": true
+  },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched": "2024-06-28 02:43:37 +0000"
     },
     "done": true
   },
@@ -467,9 +653,33 @@
     },
     "done": true
   },
+  "croparia:recipes/crops/seed_crop_coal": {
+    "criteria": {
+      "has_coal": "2024-06-28 02:39:45 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_rawchicken": {
+    "criteria": {
+      "has_chicken": "2024-06-28 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/crops/seed_crop_rawporc": {
+    "criteria": {
+      "has_porkchop": "2024-06-28 02:45:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_sapling_from_oak_shrub": {
     "criteria": {
       "has_oak_shrub": "2024-06-28 02:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
     },
     "done": true
   },
@@ -537,6 +747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2024-06-28 01:55:57 +0000"
@@ -552,6 +768,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-06-28 02:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-06-28 02:42:45 +0000"
     },
     "done": true
   },
@@ -609,6 +831,12 @@
     },
     "done": true
   },
+  "croparia:recipes/misc/seed_crop_zombie": {
+    "criteria": {
+      "has_rotten_flesh": "2024-06-28 02:42:42 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/socotra_boat": {
     "criteria": {
       "in_water": "2024-06-28 02:18:37 +0000"
@@ -624,6 +852,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-06-28 02:31:52 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_rawmutton": {
+    "criteria": {
+      "has_mutton": "2024-06-28 02:47:28 +0000"
     },
     "done": true
   },
@@ -687,15 +921,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-06-28 02:43:27 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/yellow_painted_planks": {
     "criteria": {
       "has_planks": "2024-06-28 02:31:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-06-28 02:25:17 +0000"
+      "minecraft:skeleton": "2024-06-28 02:25:17 +0000",
+      "minecraft:zombie": "2024-06-28 02:42:41 +0000"
     },
     "done": false
   },
@@ -705,9 +952,45 @@
     },
     "done": true
   },
+  "croparia:recipes/misc/seed_crop_rawporc": {
+    "criteria": {
+      "has_porkchop": "2024-06-28 02:45:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/pine_boat": {
     "criteria": {
       "in_water": "2024-06-28 02:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-06-28 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:recipes/decorations/cursed_head": {
+    "criteria": {
+      "has_item": "2024-06-28 02:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-06-28 02:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-06-28 02:47:28 +0000"
     },
     "done": true
   },
@@ -723,6 +1006,18 @@
     },
     "done": true
   },
+  "croparia:recipes/croparia_crop/seed_crop_zombie": {
+    "criteria": {
+      "has_rotten_flesh": "2024-06-28 02:42:42 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/crops/seed_crop_rawchicken": {
+    "criteria": {
+      "has_chicken": "2024-06-28 02:43:50 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/magenta_painted_planks": {
     "criteria": {
       "has_planks": "2024-06-28 02:31:52 +0000"
@@ -735,6 +1030,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-06-28 02:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-06-28 02:31:52 +0000"
@@ -744,6 +1051,12 @@
   "regions_unexplored:recipes/ru_main/pink_painted_planks": {
     "criteria": {
       "has_planks": "2024-06-28 02:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-06-28 02:47:28 +0000"
     },
     "done": true
   },
@@ -765,15 +1078,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-06-28 02:47:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-06-28 01:56:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-06-28 02:45:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-06-28 02:31:52 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_coal": {
+    "criteria": {
+      "has_coal": "2024-06-28 02:39:45 +0000"
     },
     "done": true
   },
