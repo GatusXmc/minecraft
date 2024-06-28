@@ -153,3 +153,4 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2024/06/28 19:08:04 Accept: TCP{100.107.41.65:63958 > 100.83.53.65:25565} 40 tcp non-syn
 2024/06/28 19:08:14 Accept: TCP{100.107.41.65:63958 > 100.83.53.65:25565} 40 tcp non-syn
 2024/06/28 19:08:24 Accept: TCP{100.107.41.65:63958 > 100.83.53.65:25565} 40 tcp non-syn
+2024/06/28 19:08:34 Accept: TCP{100.107.41.65:63958 > 100.83.53.65:25565} 40 tcp non-syn
