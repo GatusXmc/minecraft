@@ -81,3 +81,14 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2024/06/28 18:37:43 health("overall"): ok
 2024/06/28 18:38:43 magicsock: closing connection to derp-9 (idle), age 1m0s
 2024/06/28 18:38:43 magicsock: 1 active derp conns: derp-17=cr1m0s,wr1m0s
+2024/06/28 18:57:24 wgengine: idle peer [k0RRv] now active, reconfiguring WireGuard
+2024/06/28 18:57:24 wgengine: Reconfig: configuring userspace WireGuard config (with 1/2 peers)
+2024/06/28 18:57:24 Accept: TCP{100.107.41.65:63942 > 100.83.53.65:25565} 52 tcp ok
+2024/06/28 18:57:24 Accept: TCP{100.83.53.65:25565 > 100.107.41.65:63942} 52 ok out
+2024/06/28 18:57:24 Accept: TCP{100.107.41.65:63942 > 100.83.53.65:25565} 40 tcp non-syn
+2024/06/28 18:57:26 magicsock: disco: node [k0RRv] d:d63e8425ab7661e1 now using 187.158.39.108:41641 mtu=1360 tx=3d368f4b7a33
+2024/06/28 18:57:39 Accept: TCP{100.107.41.65:63958 > 100.83.53.65:25565} 52 tcp ok
+2024/06/28 18:57:49 Accept: TCP{100.107.41.65:63958 > 100.83.53.65:25565} 60 tcp non-syn
+2024/06/28 18:57:54 Accept: TCP{100.107.41.65:63958 > 100.83.53.65:25565} 40 tcp non-syn
+2024/06/28 18:58:04 Accept: TCP{100.107.41.65:63958 > 100.83.53.65:25565} 40 tcp non-syn
+2024/06/28 18:58:14 Accept: TCP{100.83.53.65:25565 > 100.107.41.65:63958} 52 ok out
